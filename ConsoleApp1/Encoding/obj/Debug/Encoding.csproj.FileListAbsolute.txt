@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\bin\Debug\Encoding.exe.config
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\bin\Debug\Encoding.exe
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\bin\Debug\Encoding.pdb
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\obj\Debug\Encoding.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\obj\Debug\Encoding.exe
+C:\Users\anton\source\repos\ConsoleApp1\Encoding\obj\Debug\Encoding.pdb
